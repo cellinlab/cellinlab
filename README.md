@@ -1,7 +1,5 @@
 # Hi there, I'm Cell ! 👋
 
-<hr />
-
 ## 🧑 About Me
 
 👋 I'm a web developer on an exhilarating journey to conquer the realm of full-stack web development! 🌐💻 My days are filled with learning the ins and outs of both frontend and backend technologies, as I strive to become a master of the full-stack craft.🌱 My ultimate goal is to transform my ideas into tangible products that boost efficiency and make our world a better place. 🌍 Let's embark on this exciting adventure together! 🚀
