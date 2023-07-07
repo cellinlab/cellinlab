@@ -51,13 +51,16 @@
 <p>
 <img src="https://img.shields.io/badge/阿里云（AliCloud）-FF6A00?logo=alibabacloud&logoColor=white&style=flat" alt="阿里云（AliCloud）" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat" alt="Vercel" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" />
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" />
 <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat" alt="Azure" />
+<img src="https://img.shields.io/badge/OpenAI-FF6600?logo=openai&logoColor=white&style=flat" alt="OpenAI" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VSCode" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-24292E?logo=github&logoColor=white&style=flat" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=flat" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" alt="Figma" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat" alt="Canva" />
